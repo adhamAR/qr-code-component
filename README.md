@@ -1,4 +1,3 @@
-https://qr-code-component-opal-psi.vercel.app/
 
 # Frontend Mentor - QR code component
 
